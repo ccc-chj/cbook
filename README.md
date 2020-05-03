@@ -1,5 +1,8 @@
 # cbook
-# 写在前面 此作品是我和一个朋友开发用于自己学习及使用。具体页面可查看：https://blog.csdn.net/qq_42859887/article/details/105908632
+# 写在前面 此作品是我和一个朋友开发用于自己学习及使用。具体页面可查看博客：https://blog.csdn.net/qq_42859887/article/details/105908632
+<strong>前台地址：</strong>https://gitee.com/qdwjy/NovelBar_ui.git<br>
+<strong>后台地址：</strong>https://gitee.com/Majic_seven/NovelBar.git<br>
+数据库是以前版本的，如果有需要，请点击项目star了以后联系作者，谢谢理解。
   <strong>服务器</strong>
   本网站由springboot + gradle 作服务器架构，使用mybatis作为数据持久层开发，使用spring security做安全验证。<br>
   <strong>表示层</strong> 由vue作前台框架，element_ui作主ui设计<br>
